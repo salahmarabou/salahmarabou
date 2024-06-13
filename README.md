@@ -1,4 +1,7 @@
 ## Hi there 👋 I'M Salah Marabou 👋
+<p align="right"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="ahmedjemaii" /> </p>
+
+
 
 I am a full stack developer looking to solve real-world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible.
 If you found value in something I created, feel free to reach out to me  or give me a bit of ♥ via email. Don't hesitate to contact me if you would like to get in touch as well.
